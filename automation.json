@@ -22,5 +22,13 @@
          "Can you play artist",
          "I feel like listening to some artist"
       ]
+   },
+   {
+      "intent":"music_next",
+      "queries":[
+         "Play next",
+         "Can you play next",
+         "I feel like listening to some next"
+      ]
    }
 ]
