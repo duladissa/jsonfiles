@@ -1,18 +1,26 @@
-[
-{
-"intent": "music_play",
-"queries": [
-"Play music",
-"Can you play something",
-"I feel like listening to some music"
-]
-},
-{
-"intent": "music_album",
-"queries": [
-"Play album",
-"Can you play album",
-"I feel like listening to some albums"
-]
-}
+[  
+   {  
+      "intent":"music_play",
+      "queries":[  
+         "Play music",
+         "Can you play something",
+         "I feel like listening to some music"
+      ]
+   },
+   {  
+      "intent":"music_album",
+      "queries":[  
+         "Play album",
+         "Can you play album",
+         "I feel like listening to some albums"
+      ]
+   },
+  {  
+      "intent":"music_artist",
+      "queries":[  
+         "Play artist",
+         "Can you play artist",
+         "I feel like listening to some artist"
+      ]
+   }
 ]
