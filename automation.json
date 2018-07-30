@@ -15,9 +15,9 @@
          "I feel like listening to some albums"
       ]
    },
-   {  
+   {
       "intent":"music_artist",
-      "queries":[  
+      "queries":[
          "Play artist",
          "Can you play artist",
          "I feel like listening to some artist"
