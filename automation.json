@@ -15,7 +15,7 @@
          "I feel like listening to some albums"
       ]
    },
-  {  
+   {  
       "intent":"music_artist",
       "queries":[  
          "Play artist",
