@@ -4,31 +4,74 @@
       "queries":[  
          "Play music",
          "Can you play something",
-         "I feel like listening to some music"
+         “Play David Bowie’s Ziggy Stardust and the Spiders From Mars”,
+         “Play new rules by Dua Lipa",
+         “Hey Omega play God's plan by Drake",
+         “Play the song How do I live by Leann Rimes",
+         “Play Mariah Carey's We belong together",
+         “Play the album KOD by J.Cole",
+         “Can I listen to the album 7 by Beach house",
+         “I want to listen to Sweet home alabama by Lynyrd Skynyrd",
+         “Play Tapestry by Carole King",
+         “Play Ropin' the wind by Garth Brooks",
+         “Play hip-hop",
+         “Can I listen to the new song by Camila Cabello",
+         “Play the latest Khalid album",
+         “Play music for workout",
+         “Can you play artists like Fleetwood Mac",
+         “Omega Can you play the global Top 50",
+         “Play 90s R&B",
+         “Simon & Garfunkel"
       ]
    },
    {  
       "intent":"music_album",
       "queries":[  
-         "Play album",
-         "Can you play album",
-         "I feel like listening to some albums"
+         “Find albums by will.i.am",
+         "albums by A Tribe Called Quest have",
+         "What were Billy Joel's albums",
+         "Show me albums by Imagine Dragons"
+         "What are the albums by System of a Down"
+         "Show albums by Celine Dion"
+         "Show albums by Lynyrd Skynyrd"
+         "Look for albums by Machine Gun Fellatio"
+         “List albums by the band 1975“
+         "What albums does Selena Gomez have"
+         "Find sir Elton John's albums"
+         "Clean Bandit albums"
+         "Find all albums by Jon Pardi"
+         "Can I see Eminem albums"
+         “Show latest albums by Coldplay”
+         "Find Guns N' Roses albums"
+         “Albums by P!nk please”
+         “What was the last album by michael Jackson“
+         “Trending albums by Twenty one pilots“
+         “Latest album by Bruno mars“
       ]
    },
    {
-      "intent":"music_artist",
+      "intent":"music_info_similar_artist",
       "queries":[
-         "Play artist",
-         "Can you play artist",
-         "I feel like listening to some artist"
-      ]
-   },
-   {
-      "intent":"music_next",
-      "queries":[
-         "Play next",
-         "Can you play next",
-         "I feel like listening to some next"
+         "Find artists like Beyoncé",
+         "Show artists similar to Imagine Dragons“,
+         "artists like fifth harmony“,
+         "Which artists sound similar to Lady Gaga”,
+         "List artists similar to U2“,
+         "Who are similar to Panic at the disco“,
+         "Show me some artists like 5 seconds of summer“,
+         "artists similar Rae Sremmurd“,
+         "Search for artists like red hot chilli peppers“,
+         "Do you have artists similar to Superorganism“,
+         "play artists like Dan + Shay“,
+         "find artists similar to ASAP“,
+         "show me the artists similar to 2Pac“,
+         "I would like to listen to more artists like 1975“,
+         "Get me artists like I am kloot“,
+         "what other artists sound like Led Zeppelin“,
+         "Are there more artists like The The”
+         “Look for music artists like adele”
+         “Show artists like the band Beatles“
+         “Get more artists like Madonna“
       ]
    }
 ]
