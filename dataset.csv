@@ -1,4 +1,4 @@
-Dept;Section;Family;SubFamily;Level 1 code;Priority level 1;Level 1 Name;Level 2 code;Priority level 2;Level 2 Name;Level 3 code;Priority level 3;Level 3 Name;Level 4 code;Priority level 4;Level 4 Name;Classification code in Hybris;Classification name in Hybris;Product Type
+Dept;Section;Family;SubFamily;Level1Code;Priority level 1;Level1Name;Level2Code;Priority level 2;Level2Name;Level3Code;Priority level 3;Level3Name;Level4Code;Priority level 4;Level4Name;Classification code in Hybris;Classification name in Hybris;ProductType
 1;21;6;2;F1000000;;Groceries;F1020000;;Drinks;F1020200;;Juices & Iced Tea;F1020201;;Chilled Juices;consumable;consumable;FOOD
 2;50;101;2;F1000000;;Groceries;F1010000;;Food Cupboard;F1010300;;Cooking & Home Baking;F1010317;;Safron;consumable;consumable;FOOD
 1;14;202;2;F1000000;;Groceries;F1010000;;Food Cupboard;F1010100;;Breakfast;F1010114;;Adult Fitness;consumable;consumable;FOOD
